@@ -23,7 +23,7 @@ const NavOptions = () => {
   const navigation = useNavigation();
   return (
     <FlatList 
-      style={{marginLeft: 20}}
+      style={{marginLeft: 0}}
       data={data}
       horizontal
       renderItem={({item})=>(
