@@ -26,7 +26,9 @@ const Home = ({ navigation }) => {
                             flex: 0,
                         },
                         textInput: {
-                            fontSize: 19
+                            fontSize: 19,
+                            borderBottomWidth: 2,
+                            borderColor: "black"
                         },
                     }}
                     onPress={(data , details=null)=>{
@@ -35,7 +37,6 @@ const Home = ({ navigation }) => {
                             "lat": 51.5078788 ,
                             "lng": -0.08773210000000001},
                        }))
-
                        dispatch(setDestination(null));
                        
                     }}

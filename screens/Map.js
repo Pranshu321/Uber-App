@@ -37,6 +37,16 @@ const Map = () => {
           description='London Bridge'
           identifier='origin'
         />
+
+        <Marker 
+          coordinate={{
+            latitude: 51.479270,
+            longitude: -0.119800
+          }}
+          title="Destination"
+          description='VauxHall'
+          identifier='destination'
+        />
         
 
 
