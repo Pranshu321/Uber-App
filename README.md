@@ -2,7 +2,7 @@
 
 [![Moove It](https://circleci.com/gh/moove-it/react-native-template.svg?style=svg)](https://app.circleci.com/pipelines/github/moove-it/react-native-template?branch=master)
 
-[Demo](https://expo.dev/@pranshu32/Inwise?serviceType=classic&distribution=expo-go) | [Manifest](https://exp.host/@pranshu32/Inwise/index.exp?sdkVersion=46.0.0)
+[Demo](https://expo.dev/@pranshu32/Uber?serviceType=classic&distribution=expo-go) | [Manifest](https://exp.host/@pranshu32/Uber/index.exp?sdkVersion=46.0.0)
 
 This project aims to be a strong foundation for react-native applications. It provides a clear and organized structure, core dependencies, and boilerplate to jumpstart development.
 
